@@ -2,14 +2,14 @@
 a social To-do/task app
 
 
-##fork 项目
-  ### task
-  ### user
-  ### userprofile
-  ### trending
-  ### hot
-  ### most star
-##task
+## fork 项目
+  * ### task
+  * ### user
+  * ### userprofile
+  * ### trending
+  * ### hot
+  * ### most star
+## task
   ● 创建 
   ● 更新 （更新任务状态，更新任务描述，更新任务最后的效果）
   ● 删除 （圈子删除，全局删除，删除一些任务信息或者其他）
@@ -20,7 +20,7 @@ a social To-do/task app
   ● fork  （fork一个圈子的，fork一个人的，fork一个组织的）
   ● 任务的更新，完成统计
 
-##user
+## user
   ● 注册用户
   ● 将用户自己置为不活跃
   ● 用户信息的更新，删除
