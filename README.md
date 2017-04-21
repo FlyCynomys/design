@@ -3,12 +3,12 @@ a social To-do/task app
 
 
 ##fork 项目
-  ###● task
-  ###● user
-  ###● userprofile
-  ###● trending
-  ###● hot
-  ###● most star
+  ### task
+  ### user
+  ### userprofile
+  ### trending
+  ### hot
+  ### most star
 ##task
   ● 创建 
   ● 更新 （更新任务状态，更新任务描述，更新任务最后的效果）
